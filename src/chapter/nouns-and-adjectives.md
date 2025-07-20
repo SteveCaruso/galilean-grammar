@@ -194,6 +194,19 @@ The word {% gal "b:r" %}^[Often spelled {% gal "bEr" %} to indicate *ə*.] or "s
 | Definite		| {% gal "b:rah" %} | *bərah*        | {% gal "b:nayyah" %}  | *bənayah*    | 
 | Construct		| {% gal "bar" %}   | *bar*          | {% gal "b:nE" %}      | *bəney*      |
 
+### *qaryah* - "City, Town, Village"
+
+The word {% gal "qaryyah" %} is often exceedingly irregular across Aramaic languages. These are the most common forms in Galilean:
+
+| | | | | |
+| :------------ | ------------------: | :------------- | --------------------: | :----------- |
+| **Feminine**  |                     | ***Singular*** |                       | ***Plural*** |
+| Absolute		| {% gal "qaryyah" %} | *qaryah*       | {% gal "qUryyaN" %}   | *quryan*     | 
+| Definite		| {% gal "qartah" %}  | *qartah*       | *(unattested)*        |              | 
+| Construct		| {% gal "qUrayy" %}  | *qurai*        | {% gal "qUrayy" %}    | *qurai*      |
+
+The Definite Plural is likely {% gal "qUryyatah" %} *quryaṯah*.
+
 [[More examples to follow...]]
 
 ## Practice

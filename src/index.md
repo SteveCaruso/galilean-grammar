@@ -57,6 +57,8 @@ This document is &copy; 2017-2025, but you may freely cite it with the following
 
 ## News
 
+> **July 20 2025** -- Many thanks to [Janez Pavel for fixing the scrolling issue on the menubar](https://github.com/SteveCaruso/galilean-grammar/pull/1). It should be visible now.
+
 > **July 6 2025** -- Many more typos caught by Charles Faisant. [Lord's Prayer](/articles/lords-prayer-in-galilean-aramaic) article updated. [Abracadabra](/articles/abracadabra-is-not-aramaic) and [O Father-Mother](/articles/o-father-mother-birther-of-the-cosmos) articles added.
 
 > **May 31 2025** -- A mess of typos corrected thanks to the keen eye of Charles Faisant. :-) Also add new [Research Articles](/articles) section for old AramaicNT.org articles.

@@ -6,6 +6,7 @@ title: "Research Articles"
 <ul>
 
 {%- for article in collections.articles %}
+{%- if not article.data.draft %}
 <li>
   <div>
     <strong><a href="{{ article.url }}">{{ article.data.title }}</a> <small>({{ article.data.date }})</small></strong></div>
@@ -13,6 +14,7 @@ title: "Research Articles"
   <div>{{ article.data.description }}</div>
   {%- endif %}
 </li>
+{%- endif %}
 {%- endfor %}
 
 </ul>

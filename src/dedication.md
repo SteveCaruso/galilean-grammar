@@ -48,5 +48,7 @@ An additional dedication of the modern version of this work is necessary. These 
  - Steven Childs
  - MADCreative
 
+## Other Support (on GitHub, etc.)
+ - Janez Pavel
 
-#### **†** = Assisted with editing.
+**†** = Assisted with editing.

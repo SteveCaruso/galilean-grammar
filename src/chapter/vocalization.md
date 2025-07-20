@@ -18,7 +18,7 @@ Galilean, however, was not a typical Eastern Aramaic dialect. Where vocalization
 
 There was considerable ambiguity between the classical *patah* (a) and *qametz* (å) vowels as well as *segol* (e) and *tsere* (ē). Very often (especially in earlier Galilean) the two were not differentiated, which left the inventory of nominal Galilean vowels at 5 (*a, e, i, o, u*) plus *shwa* (*ə*), which it shared with Palestinian Hebrew.^[For more on Palestinian Hebrew's vocalization, see [Yahalom (1997)](/bibliography#yahalom1997).]
 
-Vowels between labial consonants -- even if classical *shwa* -- tended to trend towards {% gal "w" %}.
+Vowels between labial consonants {% gal "b" %}, {% gal "M" %}, {% gal "P" %} -- even if classical *shwa* -- tended to trend towards /y/ as {% gal "w" %} or sometimes {% gal "y" %}.^[See words such as {% gal "gbrh" %} ⟶ {% gal "gwbrh" %}, {% gal "$M" %} ⟶ {% gal "$wM" %}, {% gal "pM" %} ⟶ {% gal "pyM" %}, etc.]
 
 Additionally, there are a number of written accounts by contemporaries that described how Galileans spoke:
 
@@ -67,7 +67,7 @@ Out of all vowels, only the names of three have survived in the (later) Galilean
 
 > {% gal "):" %} - **Šəwah** (*Shwa*)^[Rarely, *šəwah* is represented by {% gal "y" %}, so we find forms like {% gal ")yb>ah" %} for {% gal "):b>ah" %} *'əbbah* ("father") or {% gal "byr" %} for {% gal "b:r" %} *bər* ("son") in the wild.] -- Two dots on the diagonal, it's like the *a* in "above"; a very short *uh*. It is represented in transliteration by *ə*.
 
-> {% gal ")a" %} - **Pəṯaḥ** -- A line over the top of a letter, it is an open *ah* sound which could have been nazalized. It is represented in transliteration as *a*.
+> {% gal ")a" %} - **Pəṯaḥ** -- A line over the top of a letter, it is an open *ah* sound which was likely nazalized.^[Among other examples, see the inscription on the Tomb of Queen Helena of Adiabene which in Syriac was written ܨܕܐ ܡܠܟܬܐ */ṣd**n** mlkt'/* but transcribed into Galilean directly below as {% gal "cdh mlkth" %} */ṣd**h** mlkth/*.] It is represented in transliteration as *a*.
 
 > {% gal "E" %} - **Çəre** -- Looks like a *yod* with a *shwa* over it. If it's at the beginning of a word, it's pronounced *yə*, but everywhere else it represents an *ey* sound. In transliteration it is represented by *e*.
 
