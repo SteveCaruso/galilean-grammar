@@ -67,7 +67,7 @@ Out of all vowels, only the names of three have survived in the (later) Galilean
 
 > {% gal "):" %} - **Šəwah** (*Shwa*)^[Rarely, *šəwah* is represented by {% gal "y" %}, so we find forms like {% gal ")yb>ah" %} for {% gal "):b>ah" %} *'əbbah* ("father") or {% gal "byr" %} for {% gal "b:r" %} *bər* ("son") in the wild.] -- Two dots on the diagonal, it's like the *a* in "above"; a very short *uh*. It is represented in transliteration by *ə*.
 
-> {% gal ")a" %} - **Pəṯaḥ** -- A line over the top of a letter, it is an open *ah* sound which was likely nazalized.^[Among other examples, see the inscription on the Tomb of Queen Helena of Adiabene which in Syriac was written ܨܕܐ ܡܠܟܬܐ */ṣd**n** mlkt'/* but transcribed into Galilean directly below as {% gal "cdh mlkth" %} */ṣd**h** mlkth/*.] It is represented in transliteration as *a*.
+> {% gal ")a" %} - **Pəṯaḥ** -- A line over the top of a letter, it is an open *ah* sound which was likely nazalized.^[Among other examples, see the inscription on the Tomb of Queen Helena of Adiabene which in Syriac was written ܨܕܢ ܡܠܟܬܐ */ṣd**n** mlkt'/* but transcribed into Galilean directly below as {% gal "cdh mlkth" %} */ṣd**h** mlkth/*.] It is represented in transliteration as *a*.
 
 > {% gal "E" %} - **Çəre** -- Looks like a *yod* with a *shwa* over it. If it's at the beginning of a word, it's pronounced *yə*, but everywhere else it represents an *ey* sound. In transliteration it is represented by *e*.
 
