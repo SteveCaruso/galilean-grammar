@@ -34,17 +34,19 @@ An additional dedication of the modern version of this work is necessary. These 
 
 ## Pillars of the Community ({% gal "(mwdyyh" %})
 
-- Mark Wood
-- Daniel Doberstein
+ - Mark Wood
+ - Daniel Doberstein
 
 ## Fellows ({% gal "xbryyh" %})
+ - Alex Emmery
 
 ## Friends ({% gal "rxmyyh" %})
 
-- Charles Faisant **†**
+ - Charles Faisant **†**
+ - Keith Klein
 
 ## One-Time Supporters
-
+ - Bruce MacKay
  - Steven Childs
  - MADCreative
 

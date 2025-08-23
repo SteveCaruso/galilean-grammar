@@ -252,7 +252,7 @@ These verbs begin with {% gal "y" %}:
 
 > {% gal "yd(" %}<small>(a,a)</small> "to know," {% gal "yhb" %}<small>(a,*)</small>^[The curious case of the verb {% gal "yhb" %}<small>(a,\*)</small> "to give" is that it is *never* used in the Future or Infinitive. In those cases, the suppletive verb {% gal "ntN" %}<small>(\*,e)</small> "to give" is employed instead (and, conversely, is not used otherwise).] "to give," {% gal "yld" %}<small>(e,a)</small> "to give birth," etc..
 
-In the **Future** {% gal "y" %} is dropped and {% gal "y-" %} prefixes become consonantal ({% gal "yd(" %} → {% gal "y:dA(" %}, {% gal "t:dA(" %}, etc.).
+In the **Future** {% gal "y" %} is dropped and {% gal "y-" %} prefixes become consonantal ({% gal "yd(" %} → {% gal "):dA(" %}, {% gal "t:dA(" %}, etc.).
 
 In the **Imperative**, the initial {% gal "y" %} is dropped (ex. {% gal "yd(" %} → {% gal "dA(" %}, etc.).
 
