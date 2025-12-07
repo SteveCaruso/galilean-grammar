@@ -24,9 +24,9 @@ If you would like to help support the project, you can [visit my KoFi page](http
 
 ## Copyright
 
-This document is &copy; 2017-2025, but you may freely cite it with the following information, with the date of access (as I plan to make updates into the future):
+This document is &copy; 2017-<span class="year">(YEAR)</span>, but you may freely cite it with the following information, with the date of access (as I plan to make updates into the future):
 
-> **APA:** Caruso, S. (2025, April). Elementary Galilean Aramaic: לישנה גלילייה מן ריש. Retrieved <span class="month">(Month)</span> <span class="day">(Day)</span>, <span class="year">(YEA)</span>, from http://galileanaramaic.com
+> **APA:** Caruso, S. (2025, April). Elementary Galilean Aramaic: לישנה גלילייה מן ריש. Retrieved <span class="month">(Month)</span> <span class="day">(Day)</span>, <span class="year">(YEAR)</span>, from http://galileanaramaic.com
 
 > **MLA:** Caruso, Steve. Elementary Galilean Aramaic: לישנה גלילייה מן ריש. Apr. 2025, galileanaramaic.com. Accessed <span class="day">(Day)</span> <span class="month-short">(Short Month)</span>., <span class="year">(YEAR)</span>.
 

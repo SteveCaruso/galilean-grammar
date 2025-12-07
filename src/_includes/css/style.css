@@ -245,3 +245,29 @@ footer {
 img {
     max-width:100%;
 }
+
+/* Special Links */
+#front_parts {
+    padding-left:0;
+    text-align:center;
+}
+#front_parts li {
+    list-style: none;
+    margin-bottom:1ex;
+}
+#front_parts li a {
+    display:inline-block;
+    border:1px solid rgba(255,255,255,.65);
+    border-radius:20px;
+    text-decoration:none;
+    padding: 0 1ex;
+}
+#front_parts li a:hover {
+    border:1px solid rgba(255,255,255,1);
+}
+.the_gospels, .the_app {
+    background-color: rgb(39, 49, 41, 1);
+}
+.the_app {
+    background-color: rgba(49, 92, 140, 1);
+}
