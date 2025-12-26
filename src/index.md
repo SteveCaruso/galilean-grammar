@@ -57,6 +57,13 @@ This document is &copy; 2017-<span class="year">(YEAR)</span>, but you may freel
 
 ## News
 
+> **December 26 2025** -- Lots of stuff! 
+> - Various typos fixed by our project supporters. 
+> - Adding in new Articles from the old AramaicNT.org site on [Problems with Peshitta Primacy](/articles/problems-with-peshitta-primacy/), and the [Sermon on the Mount? Or the Plain?](/articles/sermon-on-the-mount-or-the-plain/). 
+> - Added link to the [Galilean Aramaic Gospels](http://bible.galileanaramaic.com) project. 
+> - Fixed link to [Learn Galilean Aramaic](http://learn.galileanaramaic.com).
+> - I'm likely forgetting some stuff.
+
 > **July 20 2025** -- Many thanks to [Janez Pavel for fixing the scrolling issue on the menubar](https://github.com/SteveCaruso/galilean-grammar/pull/1). It should be visible now.
 
 > **July 11 2025** -- [The Origins of YHWH: An Aramaic Approach](https://www.youtube.com/watch?v=t1jxYv_dEWs) was posted to YouTube.

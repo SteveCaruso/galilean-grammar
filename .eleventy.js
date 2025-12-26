@@ -18,6 +18,40 @@ module.exports = function (eleventyConfig) {
     // Add gal tag
     eleventyConfig.addShortcode('gal', (arg) => `<gal>${arg.split("").reverse().join("").replace(" ","&nbsp;")}</gal>`);
 
+    eleventyConfig.addShortcode('syr', (arg) => {
+
+		// Add syr tag
+		let syr = {
+			")":"ܐ",
+			"b":"ܒ",
+			"g":"ܓ",
+			"d":"ܕ",
+			"h":"ܗ",
+			"w":"ܘ",
+			"z":"ܙ",
+			"x":"ܚ",
+			"+":"ܛ",
+			"y":"ܝ",
+			"k":"ܟ",
+			"l":"ܠ",
+			"m":"ܡ",
+			"n":"ܢ",
+			"s":"ܣ",
+			"(":"ܥ",
+			"p":"ܦ",
+			"c":"ܨ",
+			"q":"ܩ",
+			"r":"ܪ",
+			"$":"ܫ",
+			"t":"ܬ"
+		};
+
+		for (let k in syr) {
+			arg = arg.replaceAll(k, syr[k]);
+		}
+		return `<syr>${arg}</syr>`;
+	});
+
 	// Copy any media files to `_site`, via Glob pattern
 	// Keeps the same directory structure.
 	eleventyConfig.addPassthroughCopy("./src/**/*.jpg");
