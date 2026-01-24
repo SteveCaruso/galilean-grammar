@@ -385,7 +385,7 @@ For example, {% gal "cly" %}<small>(a,e)</small>:
 |                |                      |            | {% gal "calayy" %}   | *çalái*    |
 | Fem.           | {% gal "calyyah" %}  | *çalyáh*   | {% gal "calyyaN" %}  | *çalyán*   |
 | **Future**     |                      |            |                      |            |
-| 1st Com.       | {% gal "):clE" %}    | *'əçlé*    | {% gal "n:qUM" %}    | *nəqúm*    |
+| 1st Com.       | {% gal "):clE" %}    | *'əçlé*    | {% gal "n:clE" %}    | *nəçlé*    |
 |                | {% gal "n:clE" %}	| *nəçlé*    |                      |            |
 | 2nd Masc.      | {% gal "t:clE" %}    | *təçlé*    | {% gal "t:clUN" %}   | *təçlún*   |
 | 2nd Fem.       | {% gal "t:clEN" %}   | *təçlén*   | ↑                    | ↑          |
@@ -395,7 +395,7 @@ For example, {% gal "cly" %}<small>(a,e)</small>:
 | 2nd Masc.      | {% gal "c:lI" %}     | *çəlí*     | {% gal "c:lUN" %}    | *çəlún*    |
 | 2nd Fem.       | {% gal "c:layy" %}   | *çəlái*    | ↑                    | ↑          |
 | **Past Part.** |                      |            |                      |            |
-| Masc.          | {% gal "c:lE" %}     | *çəlé*     | {% gal "c:layyiN" %} | *qimín*    |
+| Masc.          | {% gal "c:lE" %}     | *çəlé*     | {% gal "c:layyiN" %} | *çəlayín*  |
 |                |                      |            | {% gal "c:layy" %}   | *çəlái*    |
 | Fem.           | {% gal "c:lyyah" %}  | *çəlyáh*   | {% gal "cal:yyaN" %} | *çaləyán*  |
 | **Infinitive** |                      |            |                      |            |
