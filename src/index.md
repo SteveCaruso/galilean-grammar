@@ -56,6 +56,7 @@ This document is &copy; 2017-<span class="year">(YEAR)</span>, but you may freel
 </script>
 
 ## News
+> **January 24 2026** -- Fixed Pe'al III-y verb form copy-paste errors. (Thanks Trent!)
 
 > **December 26 2025** -- Lots of stuff! 
 > - Various typos fixed by our project supporters. 

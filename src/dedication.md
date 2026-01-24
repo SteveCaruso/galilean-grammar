@@ -20,6 +20,7 @@ No work occurs in a vacuum, but instead builds upon the work that came before it
 **Mahlon H. Smith** of Rutgers University for introducing an undergrad, way back when, to the concept of the Historical Jesus, literary and textual criticism, and hours upon hours of deep discussions both during and outside of class about the Aramaic language in the context of the New Testament.
 
 **–Steve Caruso**  
+*[aramaicdesigns@gmail.com](mailto:aramaicdesigns@gmail.com)*  
 January 2017
 
 &nbsp;
@@ -52,5 +53,6 @@ An additional dedication of the modern version of this work is necessary. These 
 
 ## Other Support (on GitHub, etc.)
  - Janez Pavel
+ - Trent Wilde **†**
 
 **†** = Assisted with editing.
